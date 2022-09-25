@@ -1,0 +1,12 @@
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\bin\Debug\net6.0\Image_Compression.Application.deps.json
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\bin\Debug\net6.0\Image_Compression.Application.dll
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\bin\Debug\net6.0\Image_Compression.Application.pdb
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.csproj.AssemblyReference.cache
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.AssemblyInfoInputs.cache
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.AssemblyInfo.cs
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.csproj.CoreCompileInputs.cache
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.dll
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\refint\Image_Compression.Application.dll
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\Image_Compression.Application.pdb
+C:\Users\gnu\source\repos\Image_Compression\Image_Compression.Application\obj\Debug\net6.0\ref\Image_Compression.Application.dll
